@@ -1,5 +1,5 @@
 # personal-developer-Org
 Author: cloud
-Original personal developer org
+Org Name: Original Personal Developer Org
 This is my personal developer org where I practice SF Code
-Created this Rad Me file on 03/01/2020
+Created this Read Me file on 03/01/2020
